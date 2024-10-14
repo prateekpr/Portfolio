@@ -8,7 +8,7 @@
 /* Include the local font */
 @font-face {
     font-family: 'SampleFont'; 
-    src: url('fonts/sample.otf') format('opentype'); 
+    src: url('sample.otf') format('opentype'); 
     font-weight: normal;
     font-style: normal;
 }
